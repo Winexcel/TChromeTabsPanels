@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.694,=C:\Users\Winexcel\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.567,=C:\Users\Winexcel\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.940,=C:\Users\Winexcel\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017.01.18 08:25:32.628,=C:\Users\Winexcel\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017.01.18 08:28:05.302,C:\Users\Winexcel\Desktop\ExampleChromeTabsWithPanels\SimpleExample.dfm=C:\Users\Winexcel\Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2017.01.18 08:28:05.302,C:\Users\Winexcel\Desktop\ExampleChromeTabsWithPanels\SimpleExample.pas=C:\Users\Winexcel\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017.01.18 08:28:07.574,C:\Users\Winexcel\Desktop\ExampleChromeTabsWithPanels\Project4.dproj=C:\Users\Winexcel\Documents\Embarcadero\Studio\Projects\Project4.dproj</Transaction>
+    <Transaction>2017.01.18 08:28:39.087,C:\Users\Winexcel\Desktop\ExampleChromeTabsWithPanels\Project.dproj=C:\Users\Winexcel\Desktop\ExampleChromeTabsWithPanels\Project4.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
