@@ -4,8 +4,8 @@ interface
 
 uses
   System.SysUtils, Vcl.Controls, Vcl.ExtCtrls, ChromeTabs, ChromeTabsGlassForm,
-  ChromeTabsClasses, Winapi.GDIPAPI, System.Generics.Collections, cefvcl, cefgui,
-  ceflib, System.Classes;
+  ChromeTabsClasses, Winapi.GDIPAPI, System.Generics.Collections,
+  System.Classes;
 
 type
 
