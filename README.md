@@ -1,2 +1,2 @@
 # TChromeTabsPanels
-Addition to TChromeTabs, which allows you to create area for each tab.
+Addition to TChromeTabs(https://github.com/norgepaul/TChromeTabs), which allows you to create area for each tab.
